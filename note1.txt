@@ -1,0 +1,97 @@
+
+
+
+
+
+				.Net
+		A Software Development Framework by
+		Microsoft
+
+			Framework
+				Languages (C,C++,VB,PHP,Python..) 50+ Lan
+				Compilers
+				Libraies of code
+				Execution Environment
+-------------------------------------------------------------------
+		C# Language 
+			C Language - Dennies Ritchie
+			C++ (OOPS) - (Find out)
+
+-----------------------------------------------------------------------
+		Editor
+			Visual Studio Code
+----------------------------------------------------------------------
+		.Net Version
+			2.0
+			3.0
+			3.5 (WCF, WWF, WPF)
+			4.0
+			4.5
+			4.7
+	All of the above .Net verions runs only on 
+	Windows
+--------------------------------------------------------------
+		.Net Core (Works for Win, Mac, Linux)
+			1.0
+			2.0
+			3.0 (We are going to use this)
+--------------------------------------------------------------------
+		Visual Studio (this was only for Windows) 
+				Paid Licence
+	
+		Visual Studio Code
+			for all the OS
+-----------------------------------------------------------------------
+	Console Application 
+	Libraries 
+	ASP.Net Web APP (Website)
+	Mobile APP
+	RestAPI
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+			
+
+
+
+
+
+
+
+
+
+				

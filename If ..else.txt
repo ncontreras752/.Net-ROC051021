@@ -1,0 +1,41 @@
+
+
+
+Accept the firstname from the user
+Accept the lastname from the user
+Accept the countryName from the user
+
+	Print the below statement
+
+Hello firstName lastName, your country countryName is a Haven On earth
+
+Name of the country, please print it in the Capital
+----------------------
+
+
+	
+
+	Conditional Statement 
+		if ...else
+		if ..else if (for multiple condition)
+
+	if number < 10 -- Poor Numer
+	number > 10 and less than 20 - Average Number
+	number > 20 and less than 30 - Good Number
+	number > 30 and less than 40 - Very good Number
+	number > 40 and above - Excellent Number
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
